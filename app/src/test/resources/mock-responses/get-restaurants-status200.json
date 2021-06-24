@@ -1,0 +1,2801 @@
+{
+  "items": [
+    {
+      "title": "Zillestube",
+      "id": "here:pds:place:276u33dc-d167efeb60637e06fec06fbcc058f647",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Zillestube, Alexanderplatz 7, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderplatz",
+        "postalCode": "10178",
+        "houseNumber": "7"
+      },
+      "position": {
+        "lat": 52.52255,
+        "lng": 13.4128
+      },
+      "access": [
+        {
+          "lat": 52.52249,
+          "lng": 13.41271
+        }
+      ],
+      "distance": 39,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        },
+        {
+          "id": "300-3000-0000",
+          "name": "Sehenswürdigkeit"
+        },
+        {
+          "id": "550-5510-0242",
+          "name": "Panoramablick"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "7346682"
+        },
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "8779432"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "300-000",
+          "name": "Europäisch",
+          "primary": true
+        },
+        {
+          "id": "302-000",
+          "name": "Deutsch"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493023890",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                }
+              ]
+            },
+            {
+              "value": "+493023894636",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                }
+              ]
+            },
+            {
+              "value": "+49493023890"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.parkinn-berlin.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                }
+              ]
+            },
+            {
+              "value": "http://www.parkinn-berlin.de/en/panorama-terrace",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                }
+              ]
+            },
+            {
+              "value": "http://www.parkinn-berlin.de/restaurant-zille-stube",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            }
+          ],
+          "text": [
+            "Mon-Sun: 17:30 - 23:15"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T173000",
+              "duration": "PT05H45M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spagos",
+      "id": "here:pds:place:276u33dc-18aba4c72df6433898c7d584dd6eefc3",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Spagos, Alexanderplatz 7, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderplatz",
+        "postalCode": "10178",
+        "houseNumber": "7"
+      },
+      "position": {
+        "lat": 52.52255,
+        "lng": 13.4128
+      },
+      "access": [
+        {
+          "lat": 52.52249,
+          "lng": 13.41271
+        }
+      ],
+      "distance": 39,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        },
+        {
+          "id": "200-2000-0000",
+          "name": "Nachtleben/Entertainment"
+        },
+        {
+          "id": "200-2000-0011",
+          "name": "Bar oder Pub"
+        },
+        {
+          "id": "200-2000-0368",
+          "name": "Cocktail Lounge"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "core"
+          },
+          "id": "1154509862"
+        },
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "2145871"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "M4CY9JT4BYT4OMWfMZlXOg"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493023890",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "200-2000-0000"
+                },
+                {
+                  "id": "200-2000-0011"
+                }
+              ]
+            },
+            {
+              "value": "+493023894249",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "200-2000-0368"
+                }
+              ]
+            },
+            {
+              "value": "+493023894752",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                }
+              ]
+            },
+            {
+              "value": "+49493023890"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.spagos.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "200-2000-0000"
+                },
+                {
+                  "id": "200-2000-0011"
+                }
+              ]
+            }
+          ],
+          "email": [
+            {
+              "value": "berlin.hotel@rezidorparkinn.com",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "200-2000-0011"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "200-2000-0368"
+            }
+          ],
+          "text": [
+            "Mon-Sun: 06:00 - 01:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T060000",
+              "duration": "PT19H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        },
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            },
+            {
+              "id": "200-2000-0011"
+            }
+          ],
+          "text": [
+            "Mon-Sat: 00:00 - 01:00, 12:00 - 23:59",
+            "Sun: 12:00 - 01:00, 12:00 - 23:59"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT01H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+            },
+            {
+              "start": "T120000",
+              "duration": "PT11H59M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            },
+            {
+              "start": "T120000",
+              "duration": "PT13H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Humboldt's",
+      "id": "here:pds:place:276aabd1-213351f209f30e389f8607d313b91689",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Humboldt's, Alexanderplatz 7, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderplatz",
+        "postalCode": "10178",
+        "houseNumber": "7"
+      },
+      "position": {
+        "lat": 52.52255,
+        "lng": 13.4128
+      },
+      "access": [
+        {
+          "lat": 52.52249,
+          "lng": 13.41271
+        }
+      ],
+      "distance": 39,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "958783"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "FeGToqSt105ySiyembGk5A"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "300-000",
+          "name": "Europäisch",
+          "primary": true
+        },
+        {
+          "id": "800-064",
+          "name": "International"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493023890"
+            },
+            {
+              "value": "+493023894646"
+            },
+            {
+              "value": "+49493023890"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.parkinn-berlin.com/info-de.html"
+            },
+            {
+              "value": "https://www.parkinn-berlin.de/restaurant-humboldts"
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "text": [
+            "Mon-Sun: 12:00 - 15:00, 18:00 - 22:30"
+          ],
+          "isOpen": false,
+          "structured": [
+            {
+              "start": "T120000",
+              "duration": "PT03H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            },
+            {
+              "start": "T180000",
+              "duration": "PT04H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Döner Inn",
+      "id": "here:pds:place:276u33dc-d70f980e8f364ddb9ded5966ab0ffbc2",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Döner Inn, Alexanderplatz, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderplatz",
+        "postalCode": "10178"
+      },
+      "position": {
+        "lat": 52.52305,
+        "lng": 13.41181
+      },
+      "access": [
+        {
+          "lat": 52.52342,
+          "lng": 13.41237
+        }
+      ],
+      "distance": 49,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0009",
+          "name": "Fastfood"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "4496377"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "CnM6cwQctsMqyQB0l31htA"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "250-000",
+          "name": "Nahöstlich",
+          "primary": true
+        },
+        {
+          "id": "252-000",
+          "name": "Türkisch"
+        }
+      ],
+      "contacts": [
+        {
+          "www": [
+            {
+              "value": "https://www.doener-inn.de"
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "text": [
+            "Mon-Sat: 00:00 - 02:00, 09:00 - 23:59",
+            "Sun: 09:00 - 02:00, 09:00 - 23:59"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT02H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+            },
+            {
+              "start": "T090000",
+              "duration": "PT14H59M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            },
+            {
+              "start": "T090000",
+              "duration": "PT17H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Alex Snack Bar",
+      "id": "here:pds:place:276u33dc-c267f45f2dcf4d559f6e658804c76e0a",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Alex Snack Bar, Alexanderstraße, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderstraße",
+        "postalCode": "10178"
+      },
+      "position": {
+        "lat": 52.52291,
+        "lng": 13.41319
+      },
+      "access": [
+        {
+          "lat": 52.52309,
+          "lng": 13.41341
+        }
+      ],
+      "distance": 55,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "15096313"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "302-000",
+          "name": "Deutsch",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Pommes-Helden",
+      "id": "here:pds:place:276u33dc-0c97868d936fad650e82ce0f8980f49b",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Pommes-Helden, Alexanderplatz, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderplatz",
+        "postalCode": "10178"
+      },
+      "position": {
+        "lat": 52.52243,
+        "lng": 13.41154
+      },
+      "access": [
+        {
+          "lat": 52.52342,
+          "lng": 13.41237
+        }
+      ],
+      "distance": 71,
+      "categories": [
+        {
+          "id": "100-1000-0009",
+          "name": "Fastfood",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        },
+        {
+          "id": "100-1000-0004",
+          "name": "Markthalle/-stand"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "21034643"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493024743748"
+            }
+          ],
+          "www": [
+            {
+              "value": "https://www.facebook.com/pommeshelden.berlin.alexanderplatz"
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "text": [
+            "Mon-Sat: 11:00 - 19:30"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T110000",
+              "duration": "PT08H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Galeria Kaufhof",
+      "id": "here:pds:place:276u33dc-210be92863514e80befc791a6cabd145",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Galeria Kaufhof, Alexanderplatz, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderplatz",
+        "postalCode": "10178"
+      },
+      "position": {
+        "lat": 52.52297,
+        "lng": 13.41135
+      },
+      "access": [
+        {
+          "lat": 52.52342,
+          "lng": 13.41237
+        }
+      ],
+      "distance": 74,
+      "categories": [
+        {
+          "id": "600-6800-0000",
+          "name": "Kleidung und Accessoires",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        },
+        {
+          "id": "300-3000-0000",
+          "name": "Sehenswürdigkeit"
+        },
+        {
+          "id": "600-6100-0062",
+          "name": "Einkaufszentrum"
+        },
+        {
+          "id": "600-6200-0063",
+          "name": "Kaufhaus"
+        },
+        {
+          "id": "600-6800-0089",
+          "name": "Herrenkleidung"
+        },
+        {
+          "id": "600-6800-0090",
+          "name": "Damenkleidung"
+        },
+        {
+          "id": "600-6900-0000",
+          "name": "Konsumgüter"
+        }
+      ],
+      "chains": [
+        {
+          "id": "4797"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "core"
+          },
+          "id": "1010720063"
+        },
+        {
+          "supplier": {
+            "id": "core"
+          },
+          "id": "1194478250"
+        },
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "6752958"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "Ml8FTYOqaoWus_k6gU_HAg"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "jCG0ArvpO1W0ZL9-ITKoxA"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "200-000",
+          "name": "Asiatisch",
+          "primary": true
+        },
+        {
+          "id": "205-000",
+          "name": "Thailändisch"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+491805172517",
+              "categories": [
+                {
+                  "id": "600-6800-0000"
+                }
+              ]
+            },
+            {
+              "value": "+493024639777",
+              "categories": [
+                {
+                  "id": "600-6800-0000"
+                }
+              ]
+            },
+            {
+              "value": "+4930247430"
+            },
+            {
+              "value": "+49302478368",
+              "categories": [
+                {
+                  "id": "600-6200-0063"
+                }
+              ]
+            },
+            {
+              "value": "+4930408998106",
+              "categories": [
+                {
+                  "id": "600-6800-0000"
+                }
+              ]
+            },
+            {
+              "value": "+494930247430",
+              "categories": [
+                {
+                  "id": "600-6200-0063"
+                },
+                {
+                  "id": "600-6900-0000"
+                }
+              ]
+            },
+            {
+              "value": "+4949493024639777",
+              "categories": [
+                {
+                  "id": "600-6800-0000"
+                }
+              ]
+            }
+          ],
+          "fax": [
+            {
+              "value": "030 24743140",
+              "categories": [
+                {
+                  "id": "600-6800-0000"
+                }
+              ]
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.galeria-kaufhof.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "300-3000-0000"
+                },
+                {
+                  "id": "600-6200-0063"
+                },
+                {
+                  "id": "600-6800-0000"
+                }
+              ]
+            },
+            {
+              "value": "http://www.galeria-kaufhof.de/filialen/berlin-alexanderplatz/?FLEXID=0",
+              "categories": [
+                {
+                  "id": "600-6900-0000"
+                }
+              ]
+            },
+            {
+              "value": "https://www.galeria-kaufhof.de/filialen/berlin-alexanderplatz",
+              "categories": [
+                {
+                  "id": "600-6100-0062"
+                },
+                {
+                  "id": "600-6200-0063"
+                },
+                {
+                  "id": "600-6800-0000"
+                },
+                {
+                  "id": "600-6800-0089"
+                },
+                {
+                  "id": "600-6800-0090"
+                }
+              ]
+            },
+            {
+              "value": "https://www.lxrco.com",
+              "categories": [
+                {
+                  "id": "600-6800-0000"
+                }
+              ]
+            }
+          ],
+          "email": [
+            {
+              "value": "berlin@lxrco.com",
+              "categories": [
+                {
+                  "id": "600-6800-0000"
+                }
+              ]
+            },
+            {
+              "value": "kundenzufriedenheit@galeria.de",
+              "categories": [
+                {
+                  "id": "600-6800-0000"
+                }
+              ]
+            },
+            {
+              "value": "service.210@kaufhof.de",
+              "categories": [
+                {
+                  "id": "600-6100-0062"
+                },
+                {
+                  "id": "600-6200-0063"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "600-6800-0000"
+            }
+          ],
+          "text": [
+            "Mon-Wed, Sat: 09:30 - 20:00",
+            "Thu, Fri: 09:30 - 22:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T093000",
+              "duration": "PT10H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,SA"
+            },
+            {
+              "start": "T093000",
+              "duration": "PT12H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:TH,FR"
+            }
+          ]
+        },
+        {
+          "categories": [
+            {
+              "id": "600-6200-0063"
+            },
+            {
+              "id": "600-6900-0000"
+            },
+            {
+              "id": "100-1000-0000"
+            }
+          ],
+          "text": [
+            "Mon-Wed: 09:30 - 20:00",
+            "Thu-Sat: 09:30 - 22:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T093000",
+              "duration": "PT10H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE"
+            },
+            {
+              "start": "T093000",
+              "duration": "PT12H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:TH,FR,SA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DINEA Gastronomie",
+      "id": "here:pds:place:276u33dc-e6aedc926e744777b8bce488c4d822c6",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "DINEA Gastronomie, Alexanderplatz 9, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderplatz",
+        "postalCode": "10178",
+        "houseNumber": "9"
+      },
+      "position": {
+        "lat": 52.52214,
+        "lng": 13.41203
+      },
+      "access": [
+        {
+          "lat": 52.52254,
+          "lng": 13.41261
+        }
+      ],
+      "distance": 78,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "core"
+          },
+          "id": "1222243524"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "304-000",
+          "name": "Italienisch",
+          "primary": true
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+4930247430"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sapori Italiani",
+      "id": "here:pds:place:276u33dc-746b3b2c9b484b7cb0c7edaa6dc02dd6",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Sapori Italiani, Alexanderplatz 9, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderplatz",
+        "postalCode": "10178",
+        "houseNumber": "9"
+      },
+      "position": {
+        "lat": 52.52214,
+        "lng": 13.41203
+      },
+      "access": [
+        {
+          "lat": 52.52254,
+          "lng": 13.41261
+        }
+      ],
+      "distance": 78,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0001",
+          "name": "Speiselokal"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "3434799"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "M2na-OKI12Q88t1AYVYNpw"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "304-000",
+          "name": "Italienisch",
+          "primary": true
+        },
+        {
+          "id": "300-000",
+          "name": "Europäisch"
+        },
+        {
+          "id": "372-000",
+          "name": "Mediterran"
+        },
+        {
+          "id": "800-057",
+          "name": "Pizza"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493028883189"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://saporiitaliani.foodpearl.com"
+            },
+            {
+              "value": "http://www.pizzeria-saporiitaliani.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                }
+              ]
+            },
+            {
+              "value": "https://www.facebook.com/SaporiFood",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Boboq",
+      "id": "here:pds:place:276u33dc-53aa14a9805d478d9566b83664b54219",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Boboq, Alexanderplatz 9, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Alexanderplatz",
+        "postalCode": "10178",
+        "houseNumber": "9"
+      },
+      "position": {
+        "lat": 52.52214,
+        "lng": 13.41203
+      },
+      "access": [
+        {
+          "lat": 52.52254,
+          "lng": 13.41261
+        }
+      ],
+      "distance": 78,
+      "categories": [
+        {
+          "id": "100-1100-0000",
+          "name": "Kaffee/Tee",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        },
+        {
+          "id": "100-1000-0001",
+          "name": "Speiselokal"
+        },
+        {
+          "id": "100-1100-0331",
+          "name": "Teestube"
+        },
+        {
+          "id": "200-2000-0011",
+          "name": "Bar oder Pub"
+        },
+        {
+          "id": "600-6300-0064",
+          "name": "Spezialitäten und Getränke"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "UsQ0V41FkOh_YqxxRACHIQ"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493024743245"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://instagram.com/boboq.alexanderplatz",
+              "categories": [
+                {
+                  "id": "100-1000-0001"
+                },
+                {
+                  "id": "100-1100-0000"
+                }
+              ]
+            },
+            {
+              "value": "http://www.boboq.de",
+              "categories": [
+                {
+                  "id": "100-1100-0331"
+                },
+                {
+                  "id": "200-2000-0011"
+                },
+                {
+                  "id": "600-6300-0064"
+                }
+              ]
+            },
+            {
+              "value": "http://www.teabubble.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "100-1100-0000"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "100-1100-0000"
+            }
+          ],
+          "text": [
+            "Mon-Sat: 10:00 - 22:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T100000",
+              "duration": "PT12H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+            }
+          ]
+        },
+        {
+          "categories": [
+            {
+              "id": "600-6300-0064"
+            }
+          ],
+          "text": [
+            "Mon-Sat: 10:00 - 22:00",
+            "Sun: 12:00 - 20:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T100000",
+              "duration": "PT12H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+            },
+            {
+              "start": "T120000",
+              "duration": "PT08H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU"
+            }
+          ]
+        },
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            }
+          ],
+          "text": [
+            "Mon-Sat: 10:00 - 22:00",
+            "Sun: 12:00 - 20:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T100000",
+              "duration": "PT12H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,MO,TU,TU,WE,WE,TH,TH,FR,SA,SA"
+            },
+            {
+              "start": "T220000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:FR"
+            },
+            {
+              "start": "T120000",
+              "duration": "PT08H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU,SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Affengeil",
+      "id": "here:pds:place:276u33dc-bd01c881c4584d85a44c6b0021930707",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Affengeil, Karl-Liebknecht-Straße, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Karl-Liebknecht-Straße",
+        "postalCode": "10178"
+      },
+      "position": {
+        "lat": 52.5234,
+        "lng": 13.4114
+      },
+      "access": [
+        {
+          "lat": 52.5234,
+          "lng": 13.4114
+        }
+      ],
+      "distance": 95,
+      "categories": [
+        {
+          "id": "200-2000-0368",
+          "name": "Cocktail Lounge",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "FqqtJ5RCOGTlkMwX8s9TRg"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "800-060",
+          "name": "Sandwiches",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "title": "Der Herr über die Grillkohle",
+      "id": "here:pds:place:276u33dc-516dd2b8385246b9bcf5c08b0f67b3df",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Der Herr über die Grillkohle, Karl-Liebknecht-Straße, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Karl-Liebknecht-Straße",
+        "postalCode": "10178"
+      },
+      "position": {
+        "lat": 52.5235,
+        "lng": 13.4115
+      },
+      "access": [
+        {
+          "lat": 52.52348,
+          "lng": 13.41152
+        }
+      ],
+      "distance": 99,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "vRfyW24M_cDhSFNNRnlHPg"
+        }
+      ]
+    },
+    {
+      "title": "Bäckerei Dreißig",
+      "id": "here:pds:place:276u33dc-e96ba5fe7c7f42b9994144529c57c56e",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Bäckerei Dreißig, Karl-Liebknecht-Straße 23, 10178 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Karl-Liebknecht-Straße",
+        "postalCode": "10178",
+        "houseNumber": "23"
+      },
+      "position": {
+        "lat": 52.52341,
+        "lng": 13.4107
+      },
+      "access": [
+        {
+          "lat": 52.52334,
+          "lng": 13.41092
+        }
+      ],
+      "distance": 134,
+      "categories": [
+        {
+          "id": "600-6300-0244",
+          "name": "Bäckerei",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        },
+        {
+          "id": "100-1000-0001",
+          "name": "Speiselokal"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "20342843"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493027591485"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.baeckerei-dreissig.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                }
+              ]
+            }
+          ],
+          "email": [
+            {
+              "value": "info@baeckerei-dreissig.de",
+              "categories": [
+                {
+                  "id": "600-6300-0244"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            },
+            {
+              "id": "600-6300-0244"
+            }
+          ],
+          "text": [
+            "Mon-Sat: 05:30 - 18:00",
+            "Sun: 07:00 - 17:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T053000",
+              "duration": "PT12H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+            },
+            {
+              "start": "T070000",
+              "duration": "PT10H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Klässig's Fish & Chips",
+      "id": "here:pds:place:276u33dc-c9379075eb1d4d5f9d2b99303ae4e5fb",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Klässig's Fish & Chips, Dircksenstraße 2, 10179 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Dircksenstraße",
+        "postalCode": "10179",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 52.52196,
+        "lng": 13.41083
+      },
+      "access": [
+        {
+          "lat": 52.52209,
+          "lng": 13.4109
+        }
+      ],
+      "distance": 141,
+      "categories": [
+        {
+          "id": "100-1000-0003",
+          "name": "Schnellrestaurant/Lieferservice",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        },
+        {
+          "id": "100-1000-0009",
+          "name": "Fastfood"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "core"
+          },
+          "id": "1222242934"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "800-075",
+          "name": "Fisch und Meeresfrüchte",
+          "primary": true
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493028445797"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.fishandchips.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "100-1000-0009"
+                }
+              ]
+            }
+          ],
+          "email": [
+            {
+              "value": "info@klaessigs.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "100-1000-0009"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            },
+            {
+              "id": "100-1000-0009"
+            }
+          ],
+          "text": [
+            "Mon-Sun: 07:00 - 22:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T070000",
+              "duration": "PT15H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Al Teatro",
+      "id": "here:pds:place:276u33dc-b197fa45c3f941a9b2d09b86bdc39c64",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Al Teatro, Dircksenstraße 2, 10179 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Dircksenstraße",
+        "postalCode": "10179",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 52.52196,
+        "lng": 13.41083
+      },
+      "access": [
+        {
+          "lat": 52.52209,
+          "lng": 13.4109
+        }
+      ],
+      "distance": 141,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0001",
+          "name": "Speiselokal"
+        },
+        {
+          "id": "100-1100-0000",
+          "name": "Kaffee/Tee"
+        },
+        {
+          "id": "100-1100-0010",
+          "name": "Kaffeehaus"
+        },
+        {
+          "id": "600-6300-0064",
+          "name": "Spezialitäten und Getränke"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "10666921"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "gi9yhyOoYHD6Wp-pKzrymg"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "304-000",
+          "name": "Italienisch",
+          "primary": true
+        },
+        {
+          "id": "800-063",
+          "name": "Eis"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493024725336",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "100-1100-0000"
+                }
+              ]
+            },
+            {
+              "value": "+493024781241"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://alteatro.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "100-1100-0000"
+                }
+              ]
+            },
+            {
+              "value": "https://alteatro-eismanufaktur.berlin/eiscafes-restaurants/bahnhof-alexanderplatz-berlin-mitte",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "100-1000-0001"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            },
+            {
+              "id": "100-1100-0010"
+            },
+            {
+              "id": "600-6300-0064"
+            },
+            {
+              "id": "100-1100-0000"
+            }
+          ],
+          "text": [
+            "Mon-Sun: 08:00 - 20:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T080000",
+              "duration": "PT12H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Currywurst Express",
+      "id": "here:pds:place:276u33dc-85ebd9b8d5db4c7bb7909468ff182e19",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Currywurst Express, Dircksenstraße 2, 10179 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Dircksenstraße",
+        "postalCode": "10179",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 52.52196,
+        "lng": 13.41083
+      },
+      "access": [
+        {
+          "lat": 52.52209,
+          "lng": 13.4109
+        }
+      ],
+      "distance": 141,
+      "categories": [
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0009",
+          "name": "Fastfood"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "4329136"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "Bh_2d7VbkRMPlWTHnufMZg"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "302-000",
+          "name": "Deutsch",
+          "primary": true
+        },
+        {
+          "id": "202-000",
+          "name": "Indisch"
+        },
+        {
+          "id": "800-078",
+          "name": "Grillgerichte"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493024720552"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.currywurstexpress.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            }
+          ],
+          "text": [
+            "Mon-Fri: 06:30 - 21:30",
+            "Sat, Sun: 08:00 - 21:30"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T063000",
+              "duration": "PT15H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR"
+            },
+            {
+              "start": "T080000",
+              "duration": "PT13H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:SA,SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Le Crobag",
+      "id": "here:pds:place:276u33dc-69b8314f45fd41b58e42200624fbc80a",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Le Crobag, Dircksenstraße 2, 10179 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Dircksenstraße",
+        "postalCode": "10179",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 52.52196,
+        "lng": 13.41083
+      },
+      "access": [
+        {
+          "lat": 52.52209,
+          "lng": 13.4109
+        }
+      ],
+      "distance": 141,
+      "categories": [
+        {
+          "id": "600-6300-0244",
+          "name": "Bäckerei",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        },
+        {
+          "id": "100-1100-0000",
+          "name": "Kaffee/Tee"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "2BqBaTkZe2vqdwyOQ-la6Q"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493024729590"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.lecrobag.de"
+            }
+          ],
+          "email": [
+            {
+              "value": "f.w.1@web.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "600-6300-0244"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "600-6300-0244"
+            }
+          ],
+          "text": [
+            "Mon-Fri: 04:30 - 22:00",
+            "Sat, Sun: 06:00 - 20:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T043000",
+              "duration": "PT17H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR"
+            },
+            {
+              "start": "T060000",
+              "duration": "PT14H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SA,SU"
+            }
+          ]
+        },
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            },
+            {
+              "id": "100-1100-0000"
+            }
+          ],
+          "text": [
+            "Mon-Thu: 05:00 - 22:00",
+            "Fri: 05:00 - 12:00",
+            "Sat: 16:00 - 21:00",
+            "Sun: 00:00 - 22:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T050000",
+              "duration": "PT17H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH"
+            },
+            {
+              "start": "T050000",
+              "duration": "PT07H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:FR"
+            },
+            {
+              "start": "T160000",
+              "duration": "PT05H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SA"
+            },
+            {
+              "start": "T000000",
+              "duration": "PT22H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Alexanderplatz",
+      "id": "here:pds:place:276u33dc-1e99485406c34580bf1ed6ca817de251",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Alexanderplatz, Dircksenstraße 2, 10179 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Dircksenstraße",
+        "postalCode": "10179",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 52.52196,
+        "lng": 13.41083
+      },
+      "access": [
+        {
+          "lat": 52.52209,
+          "lng": 13.4109
+        }
+      ],
+      "distance": 141,
+      "categories": [
+        {
+          "id": "700-7460-0115",
+          "name": "Touristeninformation",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        },
+        {
+          "id": "300-3000-0000",
+          "name": "Sehenswürdigkeit"
+        },
+        {
+          "id": "300-3000-0023",
+          "name": "Touristenattraktion"
+        },
+        {
+          "id": "400-4100-0041",
+          "name": "Transportservice"
+        },
+        {
+          "id": "600-6300-0244",
+          "name": "Bäckerei"
+        },
+        {
+          "id": "700-7200-0256",
+          "name": "Ingenieurtechnische und wissenschaftliche Dienstleistungen"
+        },
+        {
+          "id": "700-7200-0328",
+          "name": "B2B-Dienstleistungen"
+        },
+        {
+          "id": "700-7400-0147",
+          "name": "Fürsorge/Wohlfahrt"
+        },
+        {
+          "id": "700-7851-0117",
+          "name": "Autovermietung"
+        },
+        {
+          "id": "800-8400-0000",
+          "name": "Veranstaltungshalle"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "core"
+          },
+          "id": "1208886279"
+        },
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "13237781"
+        },
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "265858"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "OoPbpZ2E8cxC1kUXPDnotw"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "800-064",
+          "name": "International",
+          "primary": true
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+4915735530915",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                },
+                {
+                  "id": "400-4100-0041"
+                }
+              ]
+            },
+            {
+              "value": "+491805903310",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                }
+              ]
+            },
+            {
+              "value": "+491805996633",
+              "categories": [
+                {
+                  "id": "600-6300-0244"
+                }
+              ]
+            },
+            {
+              "value": "+491806996633",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                },
+                {
+                  "id": "400-4100-0041"
+                },
+                {
+                  "id": "700-7200-0328"
+                },
+                {
+                  "id": "700-7400-0147"
+                }
+              ]
+            },
+            {
+              "value": "+493023457175",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                }
+              ]
+            },
+            {
+              "value": "+49302404763",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "300-3000-0000"
+                }
+              ]
+            },
+            {
+              "value": "+493025002333",
+              "categories": [
+                {
+                  "id": "700-7460-0115"
+                }
+              ]
+            },
+            {
+              "value": "+4930250025",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                }
+              ]
+            },
+            {
+              "value": "+4930345059310",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                },
+                {
+                  "id": "700-7851-0117"
+                },
+                {
+                  "id": "800-8400-0000"
+                }
+              ]
+            },
+            {
+              "value": "+494930250025"
+            }
+          ],
+          "fax": [
+            {
+              "value": "030 24047659",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "300-3000-0000"
+                }
+              ]
+            }
+          ],
+          "www": [
+            {
+              "value": "http://da.wikipedia.org/wiki/Bahnhof_Berlin_Alexanderplatz",
+              "categories": [
+                {
+                  "id": "700-7200-0328"
+                }
+              ]
+            },
+            {
+              "value": "http://www.alexgastro.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "300-3000-0000"
+                },
+                {
+                  "id": "400-4100-0041"
+                },
+                {
+                  "id": "700-7400-0147"
+                }
+              ]
+            },
+            {
+              "value": "http://www.berlin.de",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                }
+              ]
+            },
+            {
+              "value": "http://www.berlin.de/en/attractions-and-sights/3560109-3104052-alexanderplatz.en.html",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                },
+                {
+                  "id": "300-3000-0023"
+                },
+                {
+                  "id": "400-4100-0041"
+                }
+              ]
+            },
+            {
+              "value": "http://www.berlin.de/orte/sehenswuerdigkeiten/alexanderplatz/index.en.php",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                }
+              ]
+            },
+            {
+              "value": "http://www.berlinstadtservice.de/xinh/Bahnhof_Berlin_Alexanderplatz.html",
+              "categories": [
+                {
+                  "id": "600-6300-0244"
+                }
+              ]
+            },
+            {
+              "value": "http://www.buchbinder.de",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                },
+                {
+                  "id": "700-7851-0117"
+                },
+                {
+                  "id": "800-8400-0000"
+                }
+              ]
+            },
+            {
+              "value": "http://www.wahre-werte.net",
+              "categories": [
+                {
+                  "id": "700-7200-0256"
+                }
+              ]
+            },
+            {
+              "value": "https://www.visitberlin.de/de/berlin-tourist-info-im-park-inn-am-alexanderplatz",
+              "categories": [
+                {
+                  "id": "300-3000-0000"
+                },
+                {
+                  "id": "700-7460-0115"
+                }
+              ]
+            }
+          ],
+          "email": [
+            {
+              "value": "hallo@dein-alex.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "300-3000-0000"
+                }
+              ]
+            },
+            {
+              "value": "hallo@visitberlin.de",
+              "categories": [
+                {
+                  "id": "700-7460-0115"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            },
+            {
+              "id": "300-3000-0000"
+            },
+            {
+              "id": "600-6300-0244"
+            }
+          ],
+          "text": [
+            "Mon-Sun: 00:00 - 24:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T000000",
+              "duration": "PT24H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yorma's",
+      "id": "here:pds:place:276aabd1-a69b9d8d5bd6025e06849619b365bd87",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Yorma's, Dircksenstraße 2, 10179 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Dircksenstraße",
+        "postalCode": "10179",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 52.52196,
+        "lng": 13.41083
+      },
+      "access": [
+        {
+          "lat": 52.52209,
+          "lng": 13.4109
+        }
+      ],
+      "distance": 141,
+      "categories": [
+        {
+          "id": "600-6900-0000",
+          "name": "Konsumgüter",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        },
+        {
+          "id": "100-1000-0003",
+          "name": "Schnellrestaurant/Lieferservice"
+        },
+        {
+          "id": "100-1000-0009",
+          "name": "Fastfood"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "8610768"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "ANVOMiLFJP89IeW9EcJdpQ"
+        }
+      ],
+      "foodTypes": [
+        {
+          "id": "302-000",
+          "name": "Deutsch",
+          "primary": true
+        },
+        {
+          "id": "800-060",
+          "name": "Sandwiches"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+49993189564501"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.yormas.de",
+              "categories": [
+                {
+                  "id": "600-6900-0000"
+                }
+              ]
+            },
+            {
+              "value": "http://www.yormas.de/standorte/berlin-alexanderplatz",
+              "categories": [
+                {
+                  "id": "100-1000-0009"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            }
+          ],
+          "text": [
+            "Mon-Wed: 05:00 - 23:00",
+            "Thu, Fri: 05:00 - 24:00",
+            "Sat: 07:00 - 24:00",
+            "Sun: 07:00 - 23:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T050000",
+              "duration": "PT18H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE"
+            },
+            {
+              "start": "T050000",
+              "duration": "PT19H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:TH,FR"
+            },
+            {
+              "start": "T070000",
+              "duration": "PT17H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SA"
+            },
+            {
+              "start": "T070000",
+              "duration": "PT16H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU"
+            }
+          ]
+        },
+        {
+          "categories": [
+            {
+              "id": "600-6900-0000"
+            }
+          ],
+          "text": [
+            "Mon-Wed: 05:00 - 23:00",
+            "Thu, Fri: 05:00 - 12:00",
+            "Sat: 07:00 - 12:00",
+            "Sun: 07:00 - 23:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T050000",
+              "duration": "PT18H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE"
+            },
+            {
+              "start": "T050000",
+              "duration": "PT07H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:TH,FR"
+            },
+            {
+              "start": "T070000",
+              "duration": "PT05H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SA"
+            },
+            {
+              "start": "T070000",
+              "duration": "PT16H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:SU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Backwerk",
+      "id": "here:pds:place:276aabd1-82042a39700f0b1eee5b2efc075b377c",
+      "ontologyId": "here:cm:ontology:restaurant",
+      "resultType": "place",
+      "address": {
+        "label": "Backwerk, Dircksenstraße 2, 10179 Berlin, Deutschland",
+        "countryCode": "DEU",
+        "countryName": "Deutschland",
+        "stateCode": "BE",
+        "state": "Berlin",
+        "countyCode": "B",
+        "county": "Berlin",
+        "city": "Berlin",
+        "district": "Mitte",
+        "street": "Dircksenstraße",
+        "postalCode": "10179",
+        "houseNumber": "2"
+      },
+      "position": {
+        "lat": 52.52196,
+        "lng": 13.41083
+      },
+      "access": [
+        {
+          "lat": 52.52209,
+          "lng": 13.4109
+        }
+      ],
+      "distance": 141,
+      "categories": [
+        {
+          "id": "600-6300-0244",
+          "name": "Bäckerei",
+          "primary": true
+        },
+        {
+          "id": "100-1000-0000",
+          "name": "Restaurant"
+        },
+        {
+          "id": "100-1000-0009",
+          "name": "Fastfood"
+        },
+        {
+          "id": "600-6300-0064",
+          "name": "Spezialitäten und Getränke"
+        }
+      ],
+      "chains": [
+        {
+          "id": "9991"
+        }
+      ],
+      "references": [
+        {
+          "supplier": {
+            "id": "tripadvisor"
+          },
+          "id": "12407674"
+        },
+        {
+          "supplier": {
+            "id": "yelp"
+          },
+          "id": "SYbO1nReruAidZqL3jlAng"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+493020089075"
+            },
+            {
+              "value": "+49493020089075",
+              "categories": [
+                {
+                  "id": "100-1000-0009"
+                },
+                {
+                  "id": "600-6300-0244"
+                }
+              ]
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.back-werk.de",
+              "categories": [
+                {
+                  "id": "100-1000-0000"
+                },
+                {
+                  "id": "100-1000-0009"
+                },
+                {
+                  "id": "600-6300-0244"
+                }
+              ]
+            },
+            {
+              "value": "https://www.back-werk.de/sortiment",
+              "categories": [
+                {
+                  "id": "600-6300-0244"
+                }
+              ]
+            }
+          ],
+          "email": [
+            {
+              "value": "info@back-werk.com",
+              "categories": [
+                {
+                  "id": "600-6300-0244"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "openingHours": [
+        {
+          "categories": [
+            {
+              "id": "100-1000-0000"
+            },
+            {
+              "id": "600-6300-0244"
+            }
+          ],
+          "text": [
+            "Mon-Fri: 05:00 - 21:00",
+            "Sat, Sun: 06:30 - 21:00"
+          ],
+          "isOpen": true,
+          "structured": [
+            {
+              "start": "T050000",
+              "duration": "PT16H00M",
+              "recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR"
+            },
+            {
+              "start": "T063000",
+              "duration": "PT14H30M",
+              "recurrence": "FREQ:DAILY;BYDAY:SA,SU"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

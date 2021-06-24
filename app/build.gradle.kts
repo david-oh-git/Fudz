@@ -1,5 +1,8 @@
+
 import io.davidosemwota.fudz.buildsource.FudzAndroidConfig
 import io.davidosemwota.fudz.buildsource.Libs
+import io.davidosemwota.fudz.buildsource.extentions.addUnitTestsDependencies
+import io.davidosemwota.fudz.buildsource.extentions.getLocalProperty
 
 plugins {
     id("com.android.application")
@@ -40,6 +43,21 @@ android {
     buildFeatures {
         viewBinding = true
     }
+
+    buildTypes.forEach {
+        try {
+            it.buildConfigField(
+                "String",
+                "HERE_MAP_API_KEY",
+                getLocalProperty("here.map.api.key")
+            )
+
+        } catch (ignored: Exception) {
+            throw InvalidUserDataException("You should define 'here.map.api.key' and " +
+                    "in local.properties. Visit 'https://developer.here.com' " +
+                    "to obtain them.")
+        }
+    }
 }
 
 dependencies {
@@ -48,4 +66,16 @@ dependencies {
     implementation(Libs.AndroidX.appcompat)
     implementation(Libs.material)
     implementation(Libs.AndroidX.constraintLayout)
+    //Retrofit
+    implementation(Libs.Retrofit.retrofit)
+    implementation(Libs.Retrofit.retrofitgson)
+    implementation(Libs.httpLogging)
+    //Coroutines
+    implementation(Libs.Coroutines.core)
+    implementation(Libs.Coroutines.android)
+    //Timber
+    implementation(Libs.timber)
+
+    // Unit tests
+    addUnitTestsDependencies()
 }
