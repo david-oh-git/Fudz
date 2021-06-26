@@ -82,6 +82,14 @@ dependencies {
     implementation(Libs.AndroidX.Room.runtime)
     implementation(Libs.AndroidX.Room.ktx)
     kapt(Libs.AndroidX.Room.compiler)
+    implementation(Libs.AndroidX.Fragment.fragmentKtx)
+    implementation(Libs.AndroidX.Navigation.navigationFragment)
+    implementation(Libs.AndroidX.Navigation.navigationUi)
+    implementation(Libs.AndroidX.recyclerView)
+    implementation(Libs.AndroidX.Lifecycle.viewmodel)
+    implementation(Libs.AndroidX.Lifecycle.liveDataKtx)
+    // SwipeRefreshLayout
+    implementation(Libs.AndroidX.swipeRefreshLayout)
 
     // Unit tests
     addUnitTestsDependencies()

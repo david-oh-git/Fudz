@@ -28,6 +28,7 @@ object Libs {
     object Koin {
         private const val version = "3.1.1"
         const val koin = "io.insert-koin:koin-android:$version"
+        const val viewModel = ""
     }
 
     object Detekt {
