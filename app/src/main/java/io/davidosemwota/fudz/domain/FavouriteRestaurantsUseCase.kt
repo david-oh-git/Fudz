@@ -4,7 +4,7 @@ import io.davidosemwota.fudz.storage.FudzRepository
 import io.davidosemwota.fudz.storage.Restaurant
 import kotlinx.coroutines.flow.Flow
 
-class FavouriteRestaurants(
+class FavouriteRestaurantsUseCase(
     private val repository: FudzRepository
 ) {
 

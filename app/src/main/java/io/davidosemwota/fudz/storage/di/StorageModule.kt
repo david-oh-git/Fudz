@@ -2,6 +2,10 @@ package io.davidosemwota.fudz.storage.di
 
 import android.content.Context
 import androidx.room.Room
+import io.davidosemwota.fudz.domain.ClearDatabaseUsecase
+import io.davidosemwota.fudz.domain.FavouriteRestaurantsUseCase
+import io.davidosemwota.fudz.domain.ListOfRestaurantsUseCase
+import io.davidosemwota.fudz.domain.SaveRestaurantUseCase
 import io.davidosemwota.fudz.networking.HereMapsApiFactory
 import io.davidosemwota.fudz.networking.responses.ResponseItem
 import io.davidosemwota.fudz.storage.DefaultRepository
@@ -66,6 +70,22 @@ val storageModule = module {
             get(named(LOCAL_DATA_QUALIFIER)),
             get(named(REMOTE_DATA_QUALIFIER))
         )
+    }
+
+    single {
+        ClearDatabaseUsecase(get())
+    }
+
+    single {
+        FavouriteRestaurantsUseCase(get())
+    }
+
+    single {
+        ListOfRestaurantsUseCase(get())
+    }
+
+    single {
+        SaveRestaurantUseCase(get())
     }
 }
 
