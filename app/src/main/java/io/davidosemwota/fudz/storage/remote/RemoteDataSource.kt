@@ -7,6 +7,7 @@ import io.davidosemwota.fudz.storage.FudzDataSource
 import io.davidosemwota.fudz.storage.Restaurant
 import io.davidosemwota.fudz.util.mapper.Mapper
 import kotlinx.coroutines.CoroutineDispatcher
+import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.withContext
 import retrofit2.Response
 import timber.log.Timber
@@ -60,5 +61,17 @@ class RemoteDataSource (
                 Exception("Error occurred while getting safe api result, ERROR - $errorMsg")
             )
         }
+    }
+
+    override suspend fun getRestaurants(): Flow<List<Restaurant>> {
+        TODO("Not yet implemented")
+    }
+
+    override suspend fun clearDatabase() {
+        TODO("Not yet implemented")
+    }
+
+    override suspend fun save(restaurant: Restaurant) {
+        TODO("Not yet implemented")
     }
 }

@@ -36,11 +36,13 @@ object Libs {
     }
 
     object Kotlin {
-        const val version = "1.4.31"
+        const val version = "1.5.10"
         const val stdlib = "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$version"
         const val gradlePlugin = "org.jetbrains.kotlin:kotlin-gradle-plugin:$version"
         const val allOpen = "org.jetbrains.kotlin:kotlin-allopen:$version"
         const val extensions = "org.jetbrains.kotlin:kotlin-android-extensions:$version"
+        const val serializationPlugin = "org.jetbrains.kotlin:kotlin-serialization:$version"
+        const val serializationRuntime = "org.jetbrains.kotlinx:kotlinx-serialization"
     }
 
     object Coroutines {
@@ -112,7 +114,7 @@ object Libs {
         }
 
         object Room {
-            private const val version = "2.2.5"
+            private const val version = "2.3.0"
             const val runtime = "androidx.room:room-runtime:$version"
             const val ktx = "androidx.room:room-ktx:$version"
             const val compiler = "androidx.room:room-compiler:$version"

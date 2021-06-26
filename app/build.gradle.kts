@@ -7,6 +7,7 @@ import io.davidosemwota.fudz.buildsource.extentions.getLocalProperty
 plugins {
     id("com.android.application")
     id("kotlin-android")
+    id("kotlin-kapt")
 }
 
 android {
@@ -77,6 +78,10 @@ dependencies {
     implementation(Libs.timber)
     // Koin
     implementation(Libs.Koin.koin)
+    // Room DB
+    implementation(Libs.AndroidX.Room.runtime)
+    implementation(Libs.AndroidX.Room.ktx)
+    kapt(Libs.AndroidX.Room.compiler)
 
     // Unit tests
     addUnitTestsDependencies()
