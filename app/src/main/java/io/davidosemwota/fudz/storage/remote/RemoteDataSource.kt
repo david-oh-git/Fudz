@@ -63,7 +63,7 @@ class RemoteDataSource (
         }
     }
 
-    override suspend fun getRestaurants(): Flow<List<Restaurant>> {
+    override suspend fun getFavouriteRestaurants(): Flow<List<Restaurant>> {
         TODO("Not yet implemented")
     }
 

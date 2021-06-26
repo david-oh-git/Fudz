@@ -2,7 +2,7 @@ package io.davidosemwota.fudz.storage
 
 import kotlinx.coroutines.flow.Flow
 
-interface FudzDataSource {
+interface FudzRepository {
 
     suspend fun getRestaurants(latLng: String): List<Restaurant>
 

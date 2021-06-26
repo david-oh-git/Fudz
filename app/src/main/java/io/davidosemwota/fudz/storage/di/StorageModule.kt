@@ -4,7 +4,9 @@ import android.content.Context
 import androidx.room.Room
 import io.davidosemwota.fudz.networking.HereMapsApiFactory
 import io.davidosemwota.fudz.networking.responses.ResponseItem
+import io.davidosemwota.fudz.storage.DefaultRepository
 import io.davidosemwota.fudz.storage.FudzDataSource
+import io.davidosemwota.fudz.storage.FudzRepository
 import io.davidosemwota.fudz.storage.Restaurant
 import io.davidosemwota.fudz.storage.local.FavouriteRestaurant
 import io.davidosemwota.fudz.storage.local.FavouriteRestaurantDao
@@ -55,6 +57,14 @@ val storageModule = module {
             get(named(FAVOURITE_RESTAURANT_QUALIFIER)),
             get(),
             get(named(RESTAURANT_FAVOURITE_QUALIFIER))
+        )
+    }
+
+    single<FudzRepository> {
+        DefaultRepository(
+            get(),
+            get(named(LOCAL_DATA_QUALIFIER)),
+            get(named(REMOTE_DATA_QUALIFIER))
         )
     }
 }

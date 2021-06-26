@@ -19,7 +19,7 @@ class LocalDataSource(
         TODO("Not yet implemented")
     }
 
-    override suspend fun getRestaurants(): Flow<List<Restaurant>> = withContext(ioDispatcher) {
+    override suspend fun getFavouriteRestaurants(): Flow<List<Restaurant>> = withContext(ioDispatcher) {
         return@withContext favouriteRestaurantDao.getFavouritesRestaurants().map { listOfFavourites ->
             listOfFavourites.map { favouriteToRestaurantMapper.transform(it) }
         }
