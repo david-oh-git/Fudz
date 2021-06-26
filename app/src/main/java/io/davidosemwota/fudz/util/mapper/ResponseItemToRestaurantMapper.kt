@@ -3,7 +3,7 @@ package io.davidosemwota.fudz.util.mapper
 import io.davidosemwota.fudz.networking.responses.ResponseItem
 import io.davidosemwota.fudz.storage.Restaurant
 
-class RestaurantMapper : Mapper<ResponseItem, Restaurant> {
+class ResponseItemToRestaurantMapper : Mapper<ResponseItem, Restaurant> {
 
     override suspend fun transform(from: ResponseItem): Restaurant {
         val listOfOpeningHours = from.openingHours

@@ -1,11 +1,12 @@
-package io.davidosemwota.fudz.storage
+package io.davidosemwota.fudz.storage.remote
 
 import io.davidosemwota.fudz.networking.HereMapsService
 import io.davidosemwota.fudz.networking.responses.ResponseItem
 import io.davidosemwota.fudz.networking.responses.Result
+import io.davidosemwota.fudz.storage.FudzDataSource
+import io.davidosemwota.fudz.storage.Restaurant
 import io.davidosemwota.fudz.util.mapper.Mapper
 import kotlinx.coroutines.CoroutineDispatcher
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import retrofit2.Response
 import timber.log.Timber
@@ -13,7 +14,7 @@ import timber.log.Timber
 class RemoteDataSource (
     private val restaurantMapper: Mapper<ResponseItem, Restaurant>,
     private val hereMapsService: HereMapsService,
-    private val ioDispatcher: CoroutineDispatcher = Dispatchers.IO
+    private val ioDispatcher: CoroutineDispatcher
 ) : FudzDataSource {
 
     override suspend fun getRestaurants(latLng: String): List<Restaurant> = withContext(ioDispatcher) {

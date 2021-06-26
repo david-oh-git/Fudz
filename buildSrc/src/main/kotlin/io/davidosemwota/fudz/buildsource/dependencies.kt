@@ -25,6 +25,11 @@ object Libs {
     const val robolectric = "org.robolectric:robolectric:4.5.1"
     const val archCore = "androidx.arch.core:core-testing:2.1.0"
 
+    object Koin {
+        private const val version = "3.1.1"
+        const val koin = "io.insert-koin:koin-android:$version"
+    }
+
     object Detekt {
         const val version = "1.0.0-RC16"
         const val detekt = "io.gitlab.arturbosch.detekt:detekt-gradle-plugin:$version"

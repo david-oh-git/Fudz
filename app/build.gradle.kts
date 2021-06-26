@@ -53,7 +53,7 @@ android {
             )
 
         } catch (ignored: Exception) {
-            throw InvalidUserDataException("You should define 'here.map.api.key' and " +
+            throw InvalidUserDataException("You should define 'here.map.api.key' " +
                     "in local.properties. Visit 'https://developer.here.com' " +
                     "to obtain them.")
         }
@@ -75,6 +75,8 @@ dependencies {
     implementation(Libs.Coroutines.android)
     //Timber
     implementation(Libs.timber)
+    // Koin
+    implementation(Libs.Koin.koin)
 
     // Unit tests
     addUnitTestsDependencies()
